@@ -12,6 +12,5 @@ right;
 right;
 up;
 up;
-up;
 right;
 right;
