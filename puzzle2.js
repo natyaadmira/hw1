@@ -9,6 +9,8 @@ right;
 right;
 up;
 up;
+right;
+right;
 down;
 down;
 down;
